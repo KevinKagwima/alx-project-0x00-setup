@@ -19,6 +19,10 @@ const Landing: React.FC = () => {
           title="Third Button"
           styles="bg-green-600 p-2 cursor-pointer rounded-full"
         />
+        <Button
+          title="Fourth Button"
+          styles="bg-green-600 p-2 cursor-pointer rounded-lg"
+        />
       </div>
     </div>
   );
